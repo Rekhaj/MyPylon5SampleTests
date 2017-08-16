@@ -1,0 +1,1 @@
+This this the first text file from rekjay in the BranchOne of the local repo. I save this file in the same folder as the original local repo , but working on the current BranchOne in the GitHub. This is to test when i push this file/change whether it is reflected in the BranchOne or Master/origin 
