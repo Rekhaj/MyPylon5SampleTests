@@ -1,0 +1,4 @@
+**** Test Text File from rekjay computer*****
+
+I created this text file directly in the local repository folder in my computer (NB056);
+ to check how it is pushed into the remote repository in GitHub. 
