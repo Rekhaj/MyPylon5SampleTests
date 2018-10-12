@@ -1,6 +1,6 @@
 //ReadMe file explains 
 ********************************************************************************************************
-the project and gives a clear introduction of the purpose of the project!
+gives a clear introduction of the purpose of the project!
 It lists the different tasks and its subtasks. 
 All the files and programs included in this project are from Pylon5 USB3 Vision Camera C++ samples for windows 64bit platform. 
 It uses Visual studio 2015 (Community edition) to compile and execute the application.
